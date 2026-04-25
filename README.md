@@ -16,4 +16,4 @@ At the end of this course, students: (i) will learn to communicate with computer
 ## Other Remarks
 This UG core course is meant only for B.Tech students and serves as the first course on computer programming (computing). The foundational concepts will be useful for problem-solving through systematic instructions provided to computers in Python.
 
-“Python is currently the most popular programming language worldwide, maintaining a lead of more than 10 percentage points over its closest competitors.” – [TIOBE Index](https://www.tiobe.com/tiobe-index) for February 2026. The TIOBE Programming Community index is an indicator of the popularity of programming languages.
+“*Python is currently the most popular programming language worldwide, maintaining a lead of more than 10 percentage points over its closest competitors*.” – [TIOBE Index](https://www.tiobe.com/tiobe-index) for February 2026. The TIOBE Programming Community index is an indicator of the popularity of programming languages.
