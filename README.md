@@ -2,7 +2,7 @@
 [Aug-Nov 2026, IIT Gandhinagar](https://docs.google.com/document/d/1dARPkWk7oEEVaBsc9wIZvHxwGhbiouv9HakxrYSI0h4/edit?usp=sharing)
 
 ## Education Aid at IIT Gandhinagar
-- [TracerSET](https://github.com/SET-IITGN/TracerSET) (useful aid for individuals at all levels and experience) (by [Prof. Shouvick Mondal](https://iitgn.ac.in/faculty/cse/fac-shouvick))
+- [**TracerSET**](https://github.com/SET-IITGN/TracerSET) (useful aid for individuals at all levels and experience) (by [Prof. Shouvick Mondal](https://iitgn.ac.in/faculty/cse/fac-shouvick))
 - Related tools: [trace](https://docs.python.org/3/library/trace.html), [snoop](https://github.com/alexmojaki/snoop), [pysnooper](https://github.com/cool-RR/PySnooper), [pdb](https://docs.python.org/3/library/pdb.html), [tokenize](https://docs.python.org/3/library/tokenize.html), [ast](https://docs.python.org/3/library/ast.html), [dis](https://docs.python.org/3/library/dis.html)
 
 ## Textbook
